@@ -1,8 +1,8 @@
-import { File } from './components'
+import { Main } from './components'
 
 const App = () => (
     <div>
-      <File />
+      <Main />
     </div>
 )
 

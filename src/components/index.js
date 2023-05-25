@@ -1,5 +1,5 @@
-import File from "./File"
+import Main from "./Main"
 
 export {
-    File
+    Main
 }

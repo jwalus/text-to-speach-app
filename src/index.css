@@ -11,3 +11,7 @@
   scroll-behavior: smooth;
   box-sizing: border-box;
 }
+
+body {
+  background-color: rgb(57, 105, 209);
+}
